@@ -1,5 +1,5 @@
-let gridCols = 100;
-let gridRows = 60;
+let gridCols = 200;
+let gridRows = 100;
 let tileSize = 10;
 let mouseHeld = false;
 
